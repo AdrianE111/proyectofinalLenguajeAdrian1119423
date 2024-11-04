@@ -1,0 +1,14 @@
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\bin\Debug\net8.0\ProyectoFinalLenguaje.exe
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\bin\Debug\net8.0\ProyectoFinalLenguaje.deps.json
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\bin\Debug\net8.0\ProyectoFinalLenguaje.runtimeconfig.json
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\bin\Debug\net8.0\ProyectoFinalLenguaje.dll
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\bin\Debug\net8.0\ProyectoFinalLenguaje.pdb
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.AssemblyInfoInputs.cache
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.AssemblyInfo.cs
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.csproj.CoreCompileInputs.cache
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.dll
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\refint\ProyectoFinalLenguaje.dll
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.pdb
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ProyectoFinalLenguaje.genruntimeconfig.cache
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\ProyectoFinalLenguaje\obj\Debug\net8.0\ref\ProyectoFinalLenguaje.dll
