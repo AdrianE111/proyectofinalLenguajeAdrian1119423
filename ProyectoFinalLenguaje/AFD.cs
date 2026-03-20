@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
+//Hola//
+
 public class AFD
 {
     private Dictionary<string, Dictionary<char, string>> tablaTransiciones;
